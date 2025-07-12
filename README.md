@@ -32,7 +32,7 @@ A full-stack web application that generates AI-powered coding challenges with mu
 ## 🖼️ Dashboard Screenshots
 
 ### Main Challenge Generator
-![Challenge Generator Dashboard](./images/dashboard-main.png)
+![Challenge Generator Dashboard]()
 *Generate new coding challenges with difficulty selection and quota tracking*
 
 ### Challenge History View
@@ -223,30 +223,6 @@ npm run preview
   }
   ```
 
-## 🏗️ Architecture
-
-### Frontend Architecture
-```
-src/
-├── auth/              # Authentication components
-├── challenge/         # Challenge generation and display
-├── history/           # Challenge history management
-├── layout/            # App layout and navigation
-├── utils/             # API utilities and helpers
-├── App.jsx            # Main app component
-└── main.jsx           # App entry point
-```
-
-### Backend Architecture
-```
-src/
-├── database/          # Database models and operations
-├── routes/            # API route handlers
-├── ai_generator.py    # OpenAI integration
-├── utils.py           # Authentication utilities
-└── app.py             # FastAPI application setup
-```
-
 ## 🔧 Configuration
 
 ### Quota Settings
@@ -259,29 +235,6 @@ src/
 - **Temperature**: 0.7 (balanced creativity)
 - **Response Format**: JSON structured output
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **OpenAI** for providing the GPT-3.5 Turbo API
-- **Clerk** for authentication infrastructure
-- **FastAPI** for the excellent Python web framework
-- **React** team for the amazing frontend library
-
-## 📞 Support
-
-For support, please open an issue on GitHub or contact the maintainers.
-
 ---
 
-**Made with ❤️ by [Your Name]** 
+**Made with ❤️ by [Aaditya]** 

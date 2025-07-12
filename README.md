@@ -32,15 +32,15 @@ A full-stack web application that generates AI-powered coding challenges with mu
 ## 🖼️ Dashboard Screenshots
 
 ### Main Challenge Generator
-![Challenge Generator Dashboard]()
+![Challenge Generator Dashboard](https://github-production-user-asset-6210df.s3.amazonaws.com/38832156/465582908-f6292b68-5f88-4cf0-86d7-7c32aece085b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250712%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250712T103201Z&X-Amz-Expires=300&X-Amz-Signature=c35c574ab8c123516f227fb7a1d5156388f7b3d5a4319b7d9468cf4617fb5f70&X-Amz-SignedHeaders=host)
 *Generate new coding challenges with difficulty selection and quota tracking*
 
 ### Challenge History View
-![Challenge History](./images/dashboard-history.png)
+![Challenge History](https://github-production-user-asset-6210df.s3.amazonaws.com/38832156/465582802-77ad691a-4e78-4c1c-9cf4-bd16336ed265.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250712%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250712T103136Z&X-Amz-Expires=300&X-Amz-Signature=0990cfeafed1f3457cace08397144e8a7b699fbcd00eb7d727fc84d9ee0b3f85&X-Amz-SignedHeaders=host)
 *Browse through your complete challenge history with detailed explanations*
 
 ### Interactive Challenge Interface
-![Challenge Interface](./images/dashboard-challenge.png)
+![Challenge Interface](https://github-production-user-asset-6210df.s3.amazonaws.com/38832156/465582761-c692c70e-fd69-4d15-8bae-6ff85846003d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250712%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250712T103140Z&X-Amz-Expires=300&X-Amz-Signature=46d4ae723473ed3399a53d423c4b8d9b1a297445ce5e531501f7a5575a176490&X-Amz-SignedHeaders=host)
 *Interactive multiple choice interface with instant feedback and explanations*
 
 ## 🛠️ Tech Stack
